@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WardenMC-school.aternos.me:26669",
-    "port": 25565,
+    "ip": "WardenMC-school.aternos.me",
+    "port": 26669,
     "version": "26.2",
     "try-creative": false
   },
